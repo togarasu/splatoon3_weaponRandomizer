@@ -1,6 +1,6 @@
 {
   "52gal"                  :{"display_name": ".52ガロン", "matchingRange" : 13.3},
-  "96gal"                  :{"display_name": ".92ガロン", "matchingRange" : 18.0},
+  "96gal"                  :{"display_name": ".96ガロン", "matchingRange" : 18.0},
   "96gal_deco"             :{"display_name": ".92ガロンデコ", "matchingRange" : 18.0},
   "bamboo14mk1"            :{"display_name": "14式竹筒銃", "matchingRange" : 21.0},
   "barrelspinner"          :{"display_name": "バレルスピナー", "matchingRange" : 21.0},
