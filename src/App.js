@@ -1,6 +1,6 @@
 import {useState} from 'react'
-import User from './User'
-import {randomWeaponChoiceWithRange, allRandomWeaponSelect} from './randomizer'
+import User from './User.js'
+import {randomWeaponChoiceWithRange, allRandomWeaponSelect} from './randomizer.js'
 import weapons from "./weapons.json"
 
 export default function App(){
