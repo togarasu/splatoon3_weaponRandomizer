@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/splatoon3_weaponRandomizer/static/css/main.15a74579.css",
-    "main.js": "/splatoon3_weaponRandomizer/static/js/main.ef235c92.js",
+    "main.js": "/splatoon3_weaponRandomizer/static/js/main.38333446.js",
     "index.html": "/splatoon3_weaponRandomizer/index.html",
     "main.15a74579.css.map": "/splatoon3_weaponRandomizer/static/css/main.15a74579.css.map",
-    "main.ef235c92.js.map": "/splatoon3_weaponRandomizer/static/js/main.ef235c92.js.map"
+    "main.38333446.js.map": "/splatoon3_weaponRandomizer/static/js/main.38333446.js.map"
   },
   "entrypoints": [
     "static/css/main.15a74579.css",
-    "static/js/main.ef235c92.js"
+    "static/js/main.38333446.js"
   ]
 }
